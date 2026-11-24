@@ -1,0 +1,4 @@
+google-adk==2.11.0
+litellm==1.105.0
+requests==2.34.2
+urllib3==2.7.0
